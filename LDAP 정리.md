@@ -23,6 +23,11 @@ Stand-Alone LDAP Daemon
 Objectclass 란 동일한 설정을 갖고 있는 일종의 그룹이라고 이해를 하면 될 것 같습니다. 
 새로운 엔트리가 생성될 때, 특정한 Objectclass에 속하는 엔트리로 생성을 하게 되면 해당 Objectclass의 속성을 그대로 상속받게 되는 원리임. 
 
+
+* olcSuffix – Database Suffix, it is the domain name for which the LDAP server provides the information. In simple words, it should be changed to your domain name.
+* olcRootDN – Root Distinguished Name (DN) entry for the user who has the unrestricted access to perform all administration activities on LDAP, like a root user.
+* olcRootPW – LDAP admin password for the above RootDN.
+
 <br/><br/><br/>
 
 ## ACL (Access Control List) 
