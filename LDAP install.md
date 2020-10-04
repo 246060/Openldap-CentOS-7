@@ -1,5 +1,5 @@
 # Openldap-CentOS-7
-install openldap on centos7 and explain about openldap
+install openldap on centos7 and explain about openldap  
 ref : https://linuxhostsupport.com/blog/how-to-install-ldap-on-centos-7/
 
 <br/><br/>
