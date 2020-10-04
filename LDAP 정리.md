@@ -106,4 +106,5 @@ Ref
 3. https://dev.to/tomahawkpilot/setup-an-openldap-in-centos-5hge
 4. https://linuxhostsupport.com/blog/how-to-install-ldap-on-centos-7/
 5. https://jabcholove.tistory.com/89
+6. https://dejavuqa.tistory.com/264
 
